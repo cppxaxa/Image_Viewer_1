@@ -1,0 +1,7 @@
+C:\Users\ktuser\Desktop\abhamid\PictureViewer_1\PictureViewer_1\bin\Debug\PictureViewer_1.exe
+C:\Users\ktuser\Desktop\abhamid\PictureViewer_1\PictureViewer_1\bin\Debug\PictureViewer_1.pdb
+C:\Users\ktuser\Desktop\abhamid\PictureViewer_1\PictureViewer_1\obj\x86\Debug\PictureViewer_1.Form1.resources
+C:\Users\ktuser\Desktop\abhamid\PictureViewer_1\PictureViewer_1\obj\x86\Debug\PictureViewer_1.Properties.Resources.resources
+C:\Users\ktuser\Desktop\abhamid\PictureViewer_1\PictureViewer_1\obj\x86\Debug\PictureViewer_1.csproj.GenerateResource.Cache
+C:\Users\ktuser\Desktop\abhamid\PictureViewer_1\PictureViewer_1\obj\x86\Debug\PictureViewer_1.exe
+C:\Users\ktuser\Desktop\abhamid\PictureViewer_1\PictureViewer_1\obj\x86\Debug\PictureViewer_1.pdb
